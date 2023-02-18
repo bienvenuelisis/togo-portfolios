@@ -2,7 +2,7 @@
 
 #### 1. Fork this repository
 
-Visit the [repository](https://github.com/bienvenuelisis/togo-portfolios) on Github and click here
+Visit the [repository](https://github.com/bienvenuelisis/togo-portfolios) on GitHub and click here
 
 ![fork project](https://cameroon-portfolios.vercel.app/assets/contribut/1.png)
 
