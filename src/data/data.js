@@ -7,7 +7,7 @@ const data = [
   },
   {
     id: 2,
-    name: 'Pavel dAlmeida',
+    name: 'Pavel d&apos;Almeida',
     link: 'https://aitalmeida.tech',
     tags: ['FrontEnd', 'Ui', 'Ux']
   },
